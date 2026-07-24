@@ -1,0 +1,45 @@
+.footer{
+    background:#020617;
+    color:white;
+    text-align:center;
+    padding:40px;
+    margin-top:80px;
+}
+
+.footer h3{
+    font-size:32px;
+    color:#22c55e;
+}
+
+.footer p{
+    margin-top:15px;
+    color:#cbd5e1;
+}
+
+.copyright{
+    margin-top:30px;
+    font-size:14px;
+} @media(max-width:768px){
+
+    .hero,
+    .about,
+    .skills,
+    .projects,
+    .contact{
+        padding:60px 20px;
+    }
+
+    .hero{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .project-card{
+        flex-direction:column;
+    }
+
+    .about-info{
+        grid-template-columns:1fr;
+    }
+
+}

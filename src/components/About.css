@@ -1,0 +1,64 @@
+.about{
+    padding:100px 120px;
+    color:white;
+}
+
+.about h2{
+    font-size:48px;
+    margin-bottom:40px;
+}
+
+.about-card{
+    background:#1e293b;
+    padding:40px;
+    border-radius:20px;
+    border:1px solid #22c55e;
+}
+
+.about-card p{
+    font-size:20px;
+    line-height:35px;
+    color:#d1d5db;
+    margin-bottom:20px;
+}
+
+.about-info{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:25px;
+    margin-top:40px;
+}
+
+.about-info div{
+    background:#0f172a;
+    padding:20px;
+    border-radius:15px;
+}
+
+.about-info h4{
+    color:#22c55e;
+    margin-bottom:10px;
+} @media(max-width:768px){
+
+    .hero,
+    .about,
+    .skills,
+    .projects,
+    .contact{
+        padding:60px 20px;
+    }
+
+    .hero{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .project-card{
+        flex-direction:column;
+    }
+
+    .about-info{
+        grid-template-columns:1fr;
+    }
+
+}
