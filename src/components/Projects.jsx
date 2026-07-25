@@ -43,11 +43,11 @@ function Projects() {
 
           <div className="buttons">
 
-         <a
-  href="https://your-game-link.vercel.app"
+      <a
+  href="https://play.unity.com/en/games/44a513f5-7864-4a49-a98c-de8987f64dd2/zombiesurvival"
+  className="play-btn"
   target="_blank"
   rel="noopener noreferrer"
-  className="live-btn"
 >
   🎮 Play Game
 </a>
