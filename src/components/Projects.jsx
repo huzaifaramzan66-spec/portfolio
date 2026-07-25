@@ -1,5 +1,5 @@
 import "./Projects.css";
-import ZombieGame from "../assets/Zombie-game.png";
+import ZombieGame from "../assets/image.png";
 
 function Projects() {
   return (
