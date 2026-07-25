@@ -52,7 +52,7 @@ function Projects() {
 </a>
 
 <a
-  href="https://github.com/yourusername/Last-Zombie-Survival"
+  href="https://github.com/huzaifaramzan66-spec/Last-Stand-Zombie-Survival"
   target="_blank"
   rel="noopener noreferrer"
   className="github-btn"
