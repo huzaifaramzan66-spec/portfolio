@@ -1,6 +1,6 @@
 import "./Hero.css";
 import { motion } from "framer-motion";
-import ZombieGame from "../assets/Zombie-game.png";
+import ZombieGame from "../assets/image.png";
 
 function Hero() {
   return (
