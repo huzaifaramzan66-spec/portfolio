@@ -42,14 +42,13 @@ function Projects() {
           </div>
 
           <div className="buttons">
-
-         <a
+<a
   href="https://play.unity.com/en/games/44a513f5-7864-4a49-a98c-de8987f64dd2/zombiesurvival"
   target="_blank"
   rel="noopener noreferrer"
   className="live-btn"
 >
-  🎮 Play Game
+  Live Demo
 </a>
 
 <a
