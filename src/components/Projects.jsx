@@ -52,7 +52,7 @@ function Projects() {
 </a>
 
 <a
-  href="https://github.com/huzaifaramzan66-spec"
+  href="https://github.com/huzaifaramzan66-spece"
   target="_blank"
   rel="noopener noreferrer"
   className="github-btn"
